@@ -2,4 +2,4 @@ Uniform Manifold Approximation and Projection (UMAP) is a scalable manifold lear
 
 In this project, I utilized UMAP to learn a latent representation of the arsenals of the MLB pitchers in the 2019 season. The data is scraped from the baseball website <a href="https://baseballsavant.mlb.com/">Savant</a>, which records the release speed, horizontal and vertical movement of each pitch of each pitcher. After learning the latent representation of pitcher arsenal, I ran a clustering algorithm (HDBSCAN) and was able to detect pitcher clusters in the dataset.
 
-You can view the notebook [here](https://nbviewer.jupyter.org/github/bynchang/UMAP-baseball/blob/master/umap_baseball.ipynb).
+You can view the notebook [here](https://nbviewer.jupyter.org/github/bynchang/UMAP-baseball/blob/master/umap_baseball.html).
